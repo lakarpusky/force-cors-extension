@@ -14,7 +14,6 @@
 - Works on **every** cross-origin request
 - Toggle on/off via popup
 - Auto-enables on install
-- 100% **Manifest V3 compliant**
 
 ---
 
