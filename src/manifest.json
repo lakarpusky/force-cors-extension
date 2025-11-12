@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Force CORS Errors (Dev Only)",
+  "version": "1.0",
+  "description": "Strips CORS headers to simulate errors",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "bg.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Toggle CORS Block"
+  }
+}
