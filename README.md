@@ -5,7 +5,6 @@
 > 
 ![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=google-chrome&logoColor=white)
 ![Manifest V3](https://img.shields.io/badge/Manifest-V3-green)
-![Stars](https://img.shields.io/github/stars/lakarpusky/force-cors-extension?style=social)
 ---
 
 ## Features
